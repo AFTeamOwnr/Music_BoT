@@ -28,7 +28,7 @@ OWNER_ID = int(getenv("5065276380"))
 # Your heroku app name
 HEROKU_APP_NAME = getenv("afteammusicbot")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-b12695c3-1a15-47a8-b7a8-e631eb1bd1e1")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO", "https://github.com/Learningbots79/LB_Music",
