@@ -26,7 +26,7 @@ OWNER_ID = int(getenv("5065276380"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("afteammusicbot")
+HEROKU_APP_NAME = getenv("afteammusicbot001")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HRKU-b12695c3-1a15-47a8-b7a8-e631eb1bd1e1")
 
